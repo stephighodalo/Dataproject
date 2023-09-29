@@ -22,7 +22,7 @@
 ##### This data model also shows how the Budget table has been connected to FACT_Internetsales and other necessary dimension tables.
 ![](Mapping_img.png)
 
-### Sales Management Dashboard
+### Sales Analysis Dashboard
 ##### The completed sales management dashboard comprises three key pages:
 
 ##### **Sales Overview**: This serves as the central hub, offering a comprehensive view of sales performance.
