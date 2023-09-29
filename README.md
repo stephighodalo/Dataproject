@@ -17,3 +17,20 @@
 ##### [Dim_Products](https://github.com/stephighodalo/Dataproject/blob/main/Dim_Products.sql)
 ##### [FactInternetsales](https://github.com/stephighodalo/Dataproject/blob/main/FACT_Internetsales.sql)
 
+### Data Model
+##### The image below is the data model after the cleansed and prepared tables were read into Power BI.
+##### This data model also shows how Budget table has been connected to FACT_Internetsales and other necessary dimension tables.
+![](Mapping_img.png)
+
+### Sales Management Dashboard
+##### The completed sales management dashboard comprises three key pages:
+
+##### **Sales Overview**: This serves as the central hub, offering a comprehensive view of sales performance.
+
+##### **Customer Details**: This page combines tables and visualizations to provide detailed information on customer-related data, allowing for a thorough analysis of sales over time.
+
+##### **Product Details**: Similarly, this page combines tables and visualizations to present in-depth product-related data, facilitating a comprehensive examination of sales over time.
+
+![](https://github.com/stephighodalo/Dataproject/blob/main/Sale%20Overview_img2.png)
+
+##### Download the PowerBi file [here](https://github.com/stephighodalo/Dataproject/blob/main/Sales%20Analysis%20-%20Adventure%20works.pbix)
