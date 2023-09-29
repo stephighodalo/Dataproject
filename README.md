@@ -11,15 +11,15 @@
 ##### To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories, the following tables were extracted using SQL. 
 ##### An additional data source (sales budgets) was provided in Excel format and was connected to the data model in PowerBi.
 
-##### Below are the SQL statements for cleansing and transforming the necessary data. (Click on each like to view the SQL statements)
+##### Below are the SQL statements for cleansing and transforming the necessary data. (Click on each link to view the SQL statements)
 ##### [Dim_Customers](https://github.com/stephighodalo/Dataproject/blob/main/Dim_Customer.sql)
 ##### [Dim_Calendar](https://github.com/stephighodalo/Dataproject/blob/main/Dim_Calendar.sql)
 ##### [Dim_Products](https://github.com/stephighodalo/Dataproject/blob/main/Dim_Products.sql)
-##### [FactInternetsales](https://github.com/stephighodalo/Dataproject/blob/main/FACT_Internetsales.sql)
+##### [Fact_Internetsales](https://github.com/stephighodalo/Dataproject/blob/main/FACT_Internetsales.sql)
 
 ### Data Model
 ##### The image below is the data model after the cleansed and prepared tables were read into Power BI.
-##### This data model also shows how Budget table has been connected to FACT_Internetsales and other necessary dimension tables.
+##### This data model also shows how the Budget table has been connected to FACT_Internetsales and other necessary dimension tables.
 ![](Mapping_img.png)
 
 ### Sales Management Dashboard
