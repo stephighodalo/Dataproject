@@ -1,4 +1,4 @@
-#Adventureworks Sales Analytics Dashboard
+# Adventureworks Sales Analytics Dashboard
 ## Sales Analysis
 ![](https://github.com/stephighodalo/Dataproject/blob/main/Sale%20Overview_img.png)
 ![](https://github.com/stephighodalo/Dataproject/blob/main/Overview_imgs.png)
