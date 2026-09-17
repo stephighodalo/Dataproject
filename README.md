@@ -1,5 +1,19 @@
 # Adventureworks Sales Analytics Dashboard
-## Sales Analysis
+
+<h2>Overview</h2>
+
+<p>
+This project is an end-to-end sales analytics project using the <strong>Adventure Works</strong> dataset to analyse business performance across sales, customers, products, and budgets.
+</p>
+
+<p>
+The project involved cleaning and transforming raw data using <strong>SQL</strong>, developing a structured data model, and connecting the resulting dataset to <strong>Power BI</strong> to create an interactive executive sales dashboard.
+</p>
+
+<p>
+The dashboard provides a consolidated view of key performance indicators, sales trends, customer behaviour, product performance, and actual sales compared with budget. The analysis was designed to help business stakeholders identify performance trends, understand customers and products, and make more informed data-driven decisions.
+</p>
+
 ![](https://github.com/stephighodalo/Dataproject/blob/main/Sale%20Overview_img.png)
 ![](https://github.com/stephighodalo/Dataproject/blob/main/Overview_imgs.png)
 
